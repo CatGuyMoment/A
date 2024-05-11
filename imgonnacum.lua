@@ -1,1 +1,1 @@
-print('AAHAHAHHAHAHHAHAHHAHAHHAHHAHAHAHAHHAHAHA')
+loadstring("print('celery sex')")()
